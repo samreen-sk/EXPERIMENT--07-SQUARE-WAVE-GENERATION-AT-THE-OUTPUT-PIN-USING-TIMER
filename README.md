@@ -1,5 +1,7 @@
 # EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
-
+### NAME: SHAIK SAMREEN
+### REG_NO: 212223110047
+### DATE: 03-10-2024
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
 
